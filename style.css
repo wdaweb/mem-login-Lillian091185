@@ -1,4 +1,5 @@
 
+/*使用外部連結css，去網頁按 ctrl+f5 可強制生效*/
 *{
   box-sizing:border-box;
   margin:0;
@@ -13,6 +14,8 @@
 }
 .wrapper{
   width:350px;
+  box-shadow: 3px 3px 5px pink;
+  text-shadow: 0px 3px 5px lightcoral;
 }
 .member{
   width:850px;
